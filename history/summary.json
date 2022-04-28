@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/dontinterrupt.app",
     "slug": "don-t-interrupt",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 732,
-    "timeDay": 820,
-    "timeWeek": 818,
-    "timeMonth": 763,
-    "timeYear": 755,
+    "timeDay": 873,
+    "timeWeek": 847,
+    "timeMonth": 775,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   }
 ]
