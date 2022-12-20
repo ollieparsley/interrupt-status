@@ -4,17 +4,17 @@
     "url": "https://dontinterrupt.app",
     "icon": "https://favicons.githubusercontent.com/dontinterrupt.app",
     "slug": "don-t-interrupt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 419,
-    "timeWeek": 2407,
-    "timeMonth": 1135,
-    "timeYear": 784,
+    "time": 778,
+    "timeDay": 427,
+    "timeWeek": 2278,
+    "timeMonth": 1118,
+    "timeYear": 783,
     "dailyMinutesDown": {}
   }
 ]
