@@ -2,7 +2,7 @@
   {
     "name": "Don't Interrupt",
     "url": "https://dontinterrupt.app",
-    "icon": "https://favicons.githubusercontent.com/dontinterrupt.app",
+    "icon": "https://icons.duckduckgo.com/ip3/dontinterrupt.app.ico",
     "slug": "don-t-interrupt",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 751,
-    "timeWeek": 597,
-    "timeMonth": 644,
-    "timeYear": 1016,
+    "time": 933,
+    "timeDay": 620,
+    "timeWeek": 583,
+    "timeMonth": 639,
+    "timeYear": 1003,
     "dailyMinutesDown": {}
   }
 ]
